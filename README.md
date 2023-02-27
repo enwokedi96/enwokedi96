@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enwokedi96
-- 👀 I’m interested in AI/ML (behavioural classification), Frontend Dev and Cybersecurity
-- 🌱 I’m currently learning Frontend (HTML,CSS,JScript), C#
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in AI/ML (behavioural classification), Frontend Developemnt and Cybersecurity
+- 🌱 I’m currently learning React, C#
+- 💞️ I’m looking to collaborate on AI/ML for anomaly detection
 - 📫 How to reach me ...
 
 <!---
