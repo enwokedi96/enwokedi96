@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enwokedi96
-- 👀 I’m interested in AI/ML (behavioral classification/anomaly detection), Frontend Development
-- 🌱 I’m currently learning React, C#
-- 💞️ I’m looking to collaborate on AI/ML for anomaly detection
+- 👀 I’m interested in Software Development, AI/ML, Computer Vision, Frontend Development
+- 🌱 I’m currently learning Data Analytics and SQL
+<!---- 💞️ I’m looking to collaborate on AI/ML for anomaly detection
 - 📫 How to reach me (pending)
 
 <!---
